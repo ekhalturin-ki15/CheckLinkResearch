@@ -1,0 +1,5 @@
+2	"Королькова И. А., Зайцев С. А. Современные факторы, влияющие на формирование it компетенций у обучающихся. Цифровая трансформация социальных и экономических систем. 2023;264-268. EDN: QBZUYA
+[Korolkova I. A., Zaytsev S. A. Modern factors of influence on it education. Digital transformation of social and economic systems. 2023;264-268. (In Russian.) EDN: QBZUYA]"
+3	Kustitskaya T. A., Esin R. V., Kytmanov A. A., Zykova T. V. Designing an Education Database in a Higher Education Institution for the Data-Driven Management of the Educational Process. Education Sciences. 2023;13(9):947. EDN: JNYEKV. DOI: 10.3390/educsci13090947
+4	"Пономаренко В. В. Практическая характерология с элементами прогнозирования и управления поведением (методика «семь радикалов»). М.: Феникс; 2006. 49 c. EDN: QXOOLB
+[Ponomarenko V. V. Practical characterology with elements of forecasting and behavior management (the “seven radicals” technique). Moscow, Feniks; 2006. 49 p. (In Russian.) EDN: QXOOLB]"

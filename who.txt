@@ -1,0 +1,74 @@
+1. Allen, I. E., & Seaman, J. (2008). Staying the course. Online education in the United States, 2008. Newburyport, MA: The Sloan Consortium. <http://www.sloan-c.org/publications/
+survey/pdf/staying_the_course.pdf>.
+Astin, A. (1993). What matters in college: Four critical years revisited. San Francisco: Jossey-Bass.
+Bakharia, A., & Dawson, S. (2008). Social network adapting pedagogical practice (SNAPP). <http://research.uow.edu.au/learningnetworks/seeing/action/index.html>. Version
+1.1).
+Bates, A. W. (2000). Managing technological change. San Francisco: Jossey-Bass Publishers.
+Bloland, H. G. (1995). Postmodernism and higher education. Academic Matters: The Journal of Higher Education, 66(6), 521–559.
+Borgatti, S. P. (2002). NetDraw: Graph visualization software. Harvard, MA: Analytic Technologies (Software).
+Brook, C., & Oliver, R. (2003). Online learning communities: Investigating a design framework. Australian Journal of Educational Technology, 19(2), 139–160.
+Campbell De Blois, P. B., & Oblinger, D. G. (2007). Academic analytics. A New Tool for a New Era. EDUCAUSE Review, 42(4), 42–57.
+Campbell, & Oblinger, D. (2007). Academic analytics. Washington, DC: EDUCAUSE Center for Applied Research. <http://connect.educause.edu/library/abstract/
+AcademicAnalytics/45275>.
+Campbell, J. (2007). Utilizing student data within the course management system to determine undergraduate student academic success: An exploratory study. Doctoral thesis,
+Purdue University, Indiana, USA.
+Campbell, J. P., Finnegan, C., & Collins, B. (2006). Academic analytics: Using the CMS as an early warning system. Paper presented at the WebCT impact conference 2006. <http://
+www.alt.usg.edu/publications/impact2006/campbellfinnegancollinsgage_impact06.ppt>.
+Campus Computing (2008). The 2008 Campus computing survey. Encino, CA: The campus computing project. <http://www.campuscomputing.net/survey-summary/2008>-
+campus-computing-survey.
+Chickering, A. W., & Gamson, Z. (1987). Seven principles for good practice in undergraduate education. AAHE Bulletin, 39(7), 3–7.
+Cho, H., Lee, J.-. S., Stefanone, M., & Gay, G. (2005). Development of computer-supported collaborative social networks in a distributed learning community. Behaviour and
+Information Technology, 24(6), 435–447.
+Coates, H. (2005). The value of student engagement for higher education quality. Quality in Higher Education, 11(1), 25–36.
+Cox, D. R., & Snell, D. J. (1989). The analysis of binary data (2nd ed.). London: Chapman & Hall.
+Dawson, S. (2006). A study of the relationship between student communication interaction and sense of community. The Internet and Higher Education, 9, 153–162.
+Dawson, S. (2009). ‘Seeing’ the learning community: An exploration of the development of a resource for monitoring online student networking. British Journal of Educational
+Technology. Available online 2 June 2009.
+Dawson, S., Burnett, B., & O’Donohue, M. (2006). Learning communities: An untapped sustainable competitive advantage for higher education. The International Journal of
+Educational Management, 20(2), 127–139.
+Dawson, S., McWilliam, E., & Tan, J. P.-L. (2008). Teaching Smarter: How mining ICT data can inform and improve learning and teaching practice. Paper presented at the ASCILITE
+2008, Melbourne. Australia. <http://www.ascilite.org.au/conferences/melbourne08/procs/dawson.pdf>.
+Dewey, J. (1966). Democracy and education. New York: Free Press.
+Field, A. (2005). Discovering statistics using SPSS. London: Sage.
+Dolence, M. G., & Norris, D. M. (1995). Transforming higher education: A vision for learning in the 21st century. Ann Arbor, MI: Society for College and University Planning.
+Gabelnick, F., MacGregor, J., Matthews, R., & Smith, B. (1990). Learning communities: Creating connections among students faculty and disciplines. San Francisco: Jossey-Bass.
+Goldstein, P. J., & Katz, R. N. (2005). Academic analytics: The uses of management information and technology in higher education. Washington, DC: EDUCAUSE Center for Applied
+Research.
+Greasespot weblog (2009). The weblog about Greasemonkey. <http://www.greasespot.net/>.
+Hew, K. F., & Cheung, W. S. (2003). Models to evaluate online learning communities of asynchronous discussion forums. Australian Journal of Educational Technology, 19(2),
+241–259.
+Levine Laufgraben, J., & Shapiro, N. (2004). Sustaining and improving learning communities. San Francisco: Jossey-Bass.
+Light, R. J. (2001). Making the most of college: Students speak their minds. Cambridge, MA: Harvard University Press.
+Mavondo, F., Zaman, M., & Abubakar, B. (2000). Student satisfaction with tertiary institution and recommending it to prospective students. Paper presented at the Australia New
+Zealand Marketing Academy, Griffith University, Gold Coast, Australia.
+Mazza, R., & Dimitrova, V. (2007). CourseVis: A graphical student monitoring tool for supporting instructors in web-based distance courses. International Journal of Human–
+Computer Studies, 65, 125–139.
+Morris, L. V., Finnegan, C., & Wu, S.-S. (2005). Tracking student behavior, persistence and achievement in online courses. The Internet and Higher Education, 8, 221–231.
+Mozilla (2009). Firefox information and download site. <http://www.mozilla.com/en-US/firefox/firefox.html>.
+Nagelkerke, N. J. D. (1991). A note on a general definition of the coefficient of determination. Biometrika, 78, 691–692.
+OECD. (2008). Education at a Glance 2008: OECD Indicators. Paris: Directorate for Education, Organisation for Economic Co-operation and Development. <http://www.oecd.org/
+edu/eag2008>.
+Palloff, R., & Pratt, K. (1999). Building learning communities in cyberspace. Jossey-Bass: San Francisco.
+Patrick, C., & Ga?le, G. (2007). Exploring Access and Equity in Higher Education: Policy and Performance in a Comparative Perspective. Higher Education Quarterly, 61(2),
+136–154.
+Piaget, J. (1952). The origins of intelligence in children. New York: International University Press.
+Richardson, J. T. E. (2005). Instruments for obtaining student feedback: A review of the literature. Assessment and Evaluation in Higher Education, 30(4), 387–415.
+Rossner, V., & Stockley, D. (1997). Institutional perspectives in organizing and delivering web-based instruction. In B. Kahn (Ed.), Web-based instruction (pp. 333–336).
+Englewood Cliffs, NJ: Educational Technology Publications.
+Shapiro, N., & Levine, J. (1999). Introducing learning communities. About Campus, 4(5), 2–10.
+Smith, B., MacGregor, J., Matthews, R., & Gabelnick, F. (2004). Learning communities: Reforming undergraduate education. San Francisco, CA: Jossey-Bass.
+Twigg, C. A. (1994a). The changing definition of learning. Educom Review, 29(4), 23–25.
+Twigg, C. A. (1994b). The need for a national learning infrastructure. Educom Review, 29(5), 17–20.
+Twigg, C. A. (1994c). Navigating the transition. Educom Review, 29(6), 21–24.
+University of British Columbia (2009). Calendar 2009/2010. Policies and regulations. <http://www.students.ubc.ca/calendar/index.cfm?tree = 3,42,96,0>.
+Varnham, S. (2001). Straight talking, straight teaching: Are New Zealand tertiary institutes potentially liable to their students under consumer protection legislation?
+Education and the Law, 13(4), 303–317.
+Volkwein, J. F. (1999). The four faces of institutional research. What is institutional research all about? New directions for institutional research, 104. San Francisco: Jossey-Bass.
+Vygotsky, L. (1962). Thought and language. Cambridge, MA: MIT Press.
+Wang, A. Y., & Newlin, M. H. (2000). Characteristics of students who enroll and succeed in web-based psychology classes. Journal of Educational Psychology, 92(1), 137–143.
+Wang, A. Y., & Newlin, M. H. (2002). Predictors of performance in the virtual classroom: Identifying and helping at-risk cyber-students. The Journal of Higher Education.
+Academic Matters, 29(10), 21–25.
+Wang, A. Y., Newlin, M. H., & Tucker, T. L. (2001). A discourse analysis of online classroom chats: Predictors of cyber-student performance. Teaching of Psychology, 28, 221–225.
+Wasserman, S., & Faust, K. (1994). Social network analysis: Methods and applications. New York: Cambridge University Press.
+Yanosky, R., Harris, M., & Zastrocky, M. (2004). Top technology priorities for higher-education e-learning. Stamford, CT: Gartner Research Group. <http://www.mtholyoke.edu/
+lits/ris/CourseMgmt/Gartner/top_tech_priority-g.pdf>.
